@@ -1,7 +1,5 @@
 package com.company;
-
 import java.util.Scanner;
-
 public class basic_p6 {
     public static void main(String[] args) {
 //        Area Of Rhombus
