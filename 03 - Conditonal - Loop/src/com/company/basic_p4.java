@@ -10,6 +10,6 @@ public class basic_p4 {
         float b = sc.nextFloat();
         double h = Math.sqrt((a*a)-((b*b)/4));
         double area = (h*b)/2;
-        System.out.println("Area of isosceles triangle have equal sides are "+a+" & base "+b+" is "+area);
+        System.out.println("Area of isosceles triangle have equal sides are "+a+" & base "+b+" is "+area+" sq. unit");
     }
 }

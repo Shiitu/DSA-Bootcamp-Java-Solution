@@ -11,6 +11,6 @@ public class basic_p18 {
         System.out.println("Enter the height of Pyramid : ");
         float h = sc.nextFloat();
         double vol = (w*l*h)/3;
-        System.out.println("Volume Of Pyramid having base's width "+w+" Length "+l+" & height "+h+" is ");
+        System.out.println("Volume Of Pyramid having base's width "+w+" Length "+l+" & height "+h+" is "+vol+" cub. unit");
     }
 }

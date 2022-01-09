@@ -9,6 +9,6 @@ public class basic_p19 {
         System.out.println("Enter the height of Cylinder : ");
         float h = sc.nextFloat();
         double csa = 2*3.14*r*h;
-        System.out.println("Curved Surface Area Of Cylinder having radius "+r+" & height"+h+" is "+csa);
+        System.out.println("Curved Surface Area Of Cylinder having radius "+r+" & height"+h+" is "+csa+" Sq. units");
     }
 }

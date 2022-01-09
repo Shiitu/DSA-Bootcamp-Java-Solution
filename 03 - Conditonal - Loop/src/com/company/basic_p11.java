@@ -8,7 +8,7 @@ public class basic_p11 {
         float a = sc.nextFloat();
         float b = sc.nextFloat();
         float per = 2*(a*b);
-        System.out.println("Perimeter Of Rectangle having sides "+a+" & "+b+ " is "+per);
+        System.out.println("Perimeter Of Rectangle having sides "+a+" & "+b+ " is "+per+" unit");
 
     }
 }

@@ -7,6 +7,6 @@ public class basic_p9 {
         System.out.println("ENter the Side of Equilateral Triangle : ");
         float a = sc.nextFloat();
         float per = 3*a;
-        System.out.println("Perimeter Of Equilateral Triangle having side "+a+" is "+per);
+        System.out.println("Perimeter Of Equilateral Triangle having side "+a+" is "+per+" unit");
     }
 }

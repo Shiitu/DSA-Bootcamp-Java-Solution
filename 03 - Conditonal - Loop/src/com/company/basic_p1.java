@@ -7,6 +7,6 @@ public class basic_p1 {
         System.out.println("Enter the radius of circle : ");
         float r = sc.nextFloat();
         double area = 3.14*r*r;
-        System.out.println("Area of Circle has radius "+r+" is "+area);
+        System.out.println("Area of Circle has radius "+r+" is "+area+" sq unit");
     }
 }

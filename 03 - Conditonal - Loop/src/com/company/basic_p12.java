@@ -7,6 +7,6 @@ public class basic_p12 {
         System.out.println("Enter the side of Square : ");
         float a = sc.nextFloat();
         float per = 4*a;
-        System.out.println("Perimeter Of Square having side "+a+" is "+per);
+        System.out.println("Perimeter Of Square having side "+a+" is "+per+" unit");
     }
 }

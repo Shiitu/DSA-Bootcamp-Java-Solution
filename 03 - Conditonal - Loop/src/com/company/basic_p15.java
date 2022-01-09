@@ -9,6 +9,6 @@ public class basic_p15 {
         System.out.println("Enter the height of Cylinder : ");
         float h = sc.nextFloat();
         double volume = 3.14*r*r*h;
-        System.out.println("Volume Of Cylinder having base radius and height "+r+" & "+h+ " is "+volume);
+        System.out.println("Volume Of Cylinder having base radius and height "+r+" & "+h+ " is "+volume+ " cub. unit");
     }
 }

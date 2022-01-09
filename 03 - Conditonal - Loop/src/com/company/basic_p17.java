@@ -6,6 +6,6 @@ public class basic_p17 {
         System.out.println("Enter the radius of the sphere : ");
         float r= sc.nextFloat();
         double vol = (4/3)*3.14*r*r*r;
-        System.out.println("Volume Of Sphere having radius "+r+" is "+vol);
+        System.out.println("Volume Of Sphere having radius "+r+" is "+vol+ " cub. unit");
     }
 }

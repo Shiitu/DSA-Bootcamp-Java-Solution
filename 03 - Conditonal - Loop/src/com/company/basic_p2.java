@@ -9,7 +9,7 @@ public class basic_p2 {
         System.out.println("Enter the height of triangle : ");
         float h = sc.nextFloat();
         double area = 0.5*b*h;
-        System.out.println("Area of triangle having base is "+b+" & height is "+h+ " is "+area);
+        System.out.println("Area of triangle having base is "+b+" & height is "+h+ " is "+area+" sq. unit");
 
     }
 }

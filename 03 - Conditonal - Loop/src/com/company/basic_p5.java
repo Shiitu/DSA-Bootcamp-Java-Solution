@@ -9,6 +9,6 @@ public class basic_p5 {
         System.out.println("Enter the height of Parallelogram or distance btw opposite side : ");
         float h = sc.nextFloat();
         double area = b*h;
-        System.out.println("Area og Parallelogram having base "+b+" & height "+h+" is "+area);
+        System.out.println("Area og Parallelogram having base "+b+" & height "+h+" is "+area+" sq. unit");
     }
 }

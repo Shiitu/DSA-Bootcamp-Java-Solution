@@ -9,7 +9,7 @@ public class basic_p16 {
         System.out.println("Enter the height of prism : ");
         float h = sc.nextFloat();
         double vol = b*h;
-        System.out.println("Volume Of Prism having base area "+b+" & height "+h+" is "+vol);
+        System.out.println("Volume Of Prism having base area "+b+" & height "+h+" is "+vol+ " cub. unit");
 
     }
 

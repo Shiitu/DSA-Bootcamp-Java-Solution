@@ -7,6 +7,6 @@ public class basic_p20 {
         System.out.println("Enter the length of side : ");
         float a = sc.nextFloat();
         float tsa = 6*a*a;
-        System.out.println("Total Surface Area Of Cube having edge "+a+" is "+tsa);
+        System.out.println("Total Surface Area Of Cube having edge "+a+" is "+tsa+" Sq. units");
     }
 }

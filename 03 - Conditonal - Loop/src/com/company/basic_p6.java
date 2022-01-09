@@ -8,7 +8,7 @@ public class basic_p6 {
         float a = sc.nextFloat();
         float b = sc.nextFloat();
         double area = 0.5*a*b;
-        System.out.println("area of rhombus having Diagonal length "+a+" & "+b+" is "+area);
+        System.out.println("area of rhombus having Diagonal length "+a+" & "+b+" is "+area+" sq. unit");
 
 
     }
