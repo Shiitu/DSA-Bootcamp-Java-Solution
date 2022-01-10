@@ -1,7 +1,5 @@
 package com.company;
-
 import java.util.Scanner;
-
 public class basic_p23 {
     public static void main(String[] args) {
 //        Input a number and print all the factors of that number (use loops).

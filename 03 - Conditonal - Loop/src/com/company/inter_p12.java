@@ -14,6 +14,6 @@ public class inter_p12 {
         float t = sc.nextFloat();
         double ci =(1+r/100);
         double cf = p*Math.pow(ci,t);
-        System.out.println("Compound Interest is "+cf);
+        System.out.println("Compound Interest of having principle = "+p+" ,rate = "+r+" & time = "+t+" is: "+cf);
     }
 }

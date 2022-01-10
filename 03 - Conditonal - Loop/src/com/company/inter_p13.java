@@ -10,7 +10,7 @@ public class inter_p13 {
         float a = sc.nextFloat();
         float b = sc.nextFloat();
         float c = a+b;
-        System.out.println("Addition Of Two Numbers : "+c);
+        System.out.println("Addition Of Two "+a+" & "+b+ "Numbers is : "+c);
 
 
     }
