@@ -10,7 +10,7 @@ public class inter_p21 {
             System.out.println(""+ch+" is a Vowel.");
         }
         else{
-            System.out.println(""+ch+" is Consonant");
+            System.out.println(ch+" is Consonant");
         }
     }
 }
